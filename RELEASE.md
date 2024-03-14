@@ -11,7 +11,7 @@
 <table>
     <tr><th colspan=5>PyTorch</th></tr>
     <tr>
-        <td>BYOL</td>
+        <td><a herf="cv/classification/acmix/pytorch/README.md#step-2-training">BYOL</a></td>
         <td>InternImage</td>
         <td>MobileOne</td>
         <td>MoCoV2</td>
